@@ -1,0 +1,3 @@
+dart run exo1.dart
+dart run exo2.dart
+dart run exo3.dart

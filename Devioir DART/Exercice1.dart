@@ -1,5 +1,3 @@
-//Suite de Fibonacci
-
 import 'dart:io';
 
 void main() {
